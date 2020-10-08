@@ -4,6 +4,8 @@
 
 **Website:** [📝 karai.io](https://karai.io) **Browse:** [💻 Karai Pointer Explorer](https://karai.io/explore/) **Read:** [🔗 Official Karai Blog](https://karai.io/dev/)
 
+![karai-demo](https://user-images.githubusercontent.com/34389545/95405260-f7e8f980-08dc-11eb-80ba-ef94a2319638.gif)
+
 ## Usage
 
 > Note: Karai aims to always compile and run on **Linux** targetting the **AMD64** CPU architecture. Other operating systems and architectures may compile and run this software but should do so expecting some inconsistencies.
