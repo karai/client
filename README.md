@@ -4,7 +4,7 @@
 
 **Website:** [📝 karai.io](https://karai.io) **Browse:** [💻 Karai Pointer Explorer](https://karai.io/explore/) **Read:** [🔗 Official Karai Blog](https://karai.io/dev/)
 
-![karai-demo](https://user-images.githubusercontent.com/34389545/95405260-f7e8f980-08dc-11eb-80ba-ef94a2319638.gif)
+![karai-demo](https://user-images.githubusercontent.com/34389545/95405569-cc1a4380-08dd-11eb-97ef-ca9c8368e52e.gif)
 
 ## Usage
 
